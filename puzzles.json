@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-13",
+    "title": "Paint chips",
+    "tide": "COLOR",
+    "columns": [
+      {
+        "word": "LILAC",
+        "cross": 4
+      },
+      {
+        "word": "GOLD",
+        "cross": 1
+      },
+      {
+        "word": "BLUE",
+        "cross": 1
+      },
+      {
+        "word": "BROWN",
+        "cross": 2
+      },
+      {
+        "word": "GRAY",
+        "cross": 1
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "date": "2026-10-14",
+    "title": "Orchard haul",
+    "tide": "FRUIT",
+    "columns": [
+      {
+        "word": "FIG",
+        "cross": 0
+      },
+      {
+        "word": "PEAR",
+        "cross": 3
+      },
+      {
+        "word": "PLUM",
+        "cross": 2
+      },
+      {
+        "word": "LIME",
+        "cross": 1
+      },
+      {
+        "word": "DATE",
+        "cross": 2
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "date": "2026-10-15",
+    "title": "Big blue",
+    "tide": "OCEAN",
+    "columns": [
+      {
+        "word": "COD",
+        "cross": 1
+      },
+      {
+        "word": "CRAB",
+        "cross": 0
+      },
+      {
+        "word": "SEAL",
+        "cross": 1
+      },
+      {
+        "word": "WHALE",
+        "cross": 2
+      },
+      {
+        "word": "TUNA",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "date": "2026-10-16",
+    "title": "Game on",
+    "tide": "SPORT",
+    "columns": [
+      {
+        "word": "SUMO",
+        "cross": 0
+      },
+      {
+        "word": "POLO",
+        "cross": 0
+      },
+      {
+        "word": "GOLF",
+        "cross": 1
+      },
+      {
+        "word": "RUGBY",
+        "cross": 0
+      },
+      {
+        "word": "DARTS",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "date": "2026-10-17",
+    "title": "Notes and chords",
+    "tide": "MUSIC",
+    "columns": [
+      {
+        "word": "DRUM",
+        "cross": 3
+      },
+      {
+        "word": "TUBA",
+        "cross": 1
+      },
+      {
+        "word": "BASS",
+        "cross": 2
+      },
+      {
+        "word": "VIOLIN",
+        "cross": 1
+      },
+      {
+        "word": "CELLO",
+        "cross": 0
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "date": "2026-10-18",
+    "title": "Garden center",
+    "tide": "PLANT",
+    "columns": [
+      {
+        "word": "POPPY",
+        "cross": 0
+      },
+      {
+        "word": "LILY",
+        "cross": 0
+      },
+      {
+        "word": "DAISY",
+        "cross": 1
+      },
+      {
+        "word": "FERN",
+        "cross": 3
+      },
+      {
+        "word": "TULIP",
+        "cross": 0
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "date": "2026-10-19",
+    "title": "Rack of flavor",
+    "tide": "SPICE",
+    "columns": [
+      {
+        "word": "SAGE",
+        "cross": 0
+      },
+      {
+        "word": "CAPER",
+        "cross": 2
+      },
+      {
+        "word": "CHILI",
+        "cross": 2
+      },
+      {
+        "word": "CLOVE",
+        "cross": 0
+      },
+      {
+        "word": "FENNEL",
+        "cross": 1
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": 8,
+    "date": "2026-10-20",
+    "title": "Feathered friends",
+    "tide": "BIRDS",
+    "columns": [
+      {
+        "word": "ROBIN",
+        "cross": 2
+      },
+      {
+        "word": "FINCH",
+        "cross": 1
+      },
+      {
+        "word": "CROW",
+        "cross": 1
+      },
+      {
+        "word": "DOVE",
+        "cross": 0
+      },
+      {
+        "word": "SWAN",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "date": "2026-10-21",
+    "title": "Leafy giants",
+    "tide": "TREES",
+    "columns": [
+      {
+        "word": "TEAK",
+        "cross": 0
+      },
+      {
+        "word": "BIRCH",
+        "cross": 2
+      },
+      {
+        "word": "CEDAR",
+        "cross": 1
+      },
+      {
+        "word": "ELM",
+        "cross": 0
+      },
+      {
+        "word": "ASPEN",
+        "cross": 1
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "date": "2026-10-22",
+    "title": "Geometry class",
+    "tide": "SHAPE",
+    "columns": [
+      {
+        "word": "CROSS",
+        "cross": 3
+      },
+      {
+        "word": "HEART",
+        "cross": 0
+      },
+      {
+        "word": "OVAL",
+        "cross": 2
+      },
+      {
+        "word": "PRISM",
+        "cross": 0
+      },
+      {
+        "word": "CUBE",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "date": "2026-10-23",
+    "title": "Baker's dozen",
+    "tide": "BREAD",
+    "columns": [
+      {
+        "word": "BAGEL",
+        "cross": 0
+      },
+      {
+        "word": "ROLL",
+        "cross": 0
+      },
+      {
+        "word": "RYE",
+        "cross": 2
+      },
+      {
+        "word": "NAAN",
+        "cross": 1
+      },
+      {
+        "word": "SOURDOUGH",
+        "cross": 4
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "date": "2026-10-24",
+    "title": "Towel and umbrella spot",
+    "tide": "BEACH",
+    "columns": [
+      {
+        "word": "CRAB",
+        "cross": 3
+      },
+      {
+        "word": "SHELL",
+        "cross": 2
+      },
+      {
+        "word": "SAND",
+        "cross": 1
+      },
+      {
+        "word": "CORAL",
+        "cross": 0
+      },
+      {
+        "word": "SHORE",
+        "cross": 1
+      }
+    ],
+    "difficulty": 2
+  }
+]
