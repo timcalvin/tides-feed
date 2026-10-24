@@ -346,5 +346,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 13,
+    "date": "2026-10-25",
+    "title": "Thunder and lightning",
+    "tide": "STORM",
+    "columns": [
+      {
+        "word": "SNOW",
+        "cross": 0
+      },
+      {
+        "word": "MIST",
+        "cross": 3
+      },
+      {
+        "word": "FOG",
+        "cross": 1
+      },
+      {
+        "word": "RAIN",
+        "cross": 0
+      },
+      {
+        "word": "TEMPEST",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
