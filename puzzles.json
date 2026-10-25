@@ -375,5 +375,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 14,
+    "date": "2026-10-26",
+    "title": "Sixty-four squares",
+    "tide": "CHESS",
+    "columns": [
+      {
+        "word": "CHECK",
+        "cross": 3
+      },
+      {
+        "word": "KNIGHT",
+        "cross": 4
+      },
+      {
+        "word": "QUEEN",
+        "cross": 2
+      },
+      {
+        "word": "BISHOP",
+        "cross": 2
+      },
+      {
+        "word": "CASTLE",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
