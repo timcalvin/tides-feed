@@ -404,5 +404,179 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 15,
+    "date": "2026-10-27",
+    "title": "Bowl season",
+    "tide": "SOUPS",
+    "columns": [
+      {
+        "word": "MISO",
+        "cross": 2
+      },
+      {
+        "word": "TOMATO",
+        "cross": 1
+      },
+      {
+        "word": "GUMBO",
+        "cross": 1
+      },
+      {
+        "word": "PHO",
+        "cross": 0
+      },
+      {
+        "word": "BISQUE",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "date": "2026-10-28",
+    "title": "Hit the floor",
+    "tide": "DANCE",
+    "columns": [
+      {
+        "word": "DISCO",
+        "cross": 0
+      },
+      {
+        "word": "WALTZ",
+        "cross": 1
+      },
+      {
+        "word": "TANGO",
+        "cross": 2
+      },
+      {
+        "word": "CONGA",
+        "cross": 0
+      },
+      {
+        "word": "BOLERO",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "date": "2026-10-29",
+    "title": "Down on the farm",
+    "tide": "CROPS",
+    "columns": [
+      {
+        "word": "CORN",
+        "cross": 0
+      },
+      {
+        "word": "BARLEY",
+        "cross": 2
+      },
+      {
+        "word": "COTTON",
+        "cross": 1
+      },
+      {
+        "word": "PEA",
+        "cross": 0
+      },
+      {
+        "word": "SOY",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "date": "2026-10-30",
+    "title": "Heavy stuff",
+    "tide": "METAL",
+    "columns": [
+      {
+        "word": "CHROME",
+        "cross": 4
+      },
+      {
+        "word": "LEAD",
+        "cross": 1
+      },
+      {
+        "word": "TIN",
+        "cross": 0
+      },
+      {
+        "word": "BRASS",
+        "cross": 2
+      },
+      {
+        "word": "SILVER",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "date": "2026-10-31",
+    "title": "Not a trick",
+    "tide": "TREAT",
+    "columns": [
+      {
+        "word": "BRITTLE",
+        "cross": 3
+      },
+      {
+        "word": "GUMDROP",
+        "cross": 4
+      },
+      {
+        "word": "JELLY",
+        "cross": 1
+      },
+      {
+        "word": "CARAMEL",
+        "cross": 3
+      },
+      {
+        "word": "MINT",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "date": "2026-11-01",
+    "title": "By the yard",
+    "tide": "CLOTH",
+    "columns": [
+      {
+        "word": "LACE",
+        "cross": 2
+      },
+      {
+        "word": "FLEECE",
+        "cross": 1
+      },
+      {
+        "word": "WOOL",
+        "cross": 1
+      },
+      {
+        "word": "TWEED",
+        "cross": 0
+      },
+      {
+        "word": "MOHAIR",
+        "cross": 2
+      }
+    ],
+    "difficulty": 3
   }
 ]
