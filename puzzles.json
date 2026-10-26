@@ -404,5 +404,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 15,
+    "date": "2026-10-27",
+    "title": "Bowl season",
+    "tide": "SOUPS",
+    "columns": [
+      {
+        "word": "MISO",
+        "cross": 2
+      },
+      {
+        "word": "TOMATO",
+        "cross": 1
+      },
+      {
+        "word": "GUMBO",
+        "cross": 1
+      },
+      {
+        "word": "PHO",
+        "cross": 0
+      },
+      {
+        "word": "BISQUE",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
