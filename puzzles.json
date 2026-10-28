@@ -462,5 +462,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 17,
+    "date": "2026-10-29",
+    "title": "Down on the farm",
+    "tide": "CROPS",
+    "columns": [
+      {
+        "word": "CORN",
+        "cross": 0
+      },
+      {
+        "word": "BARLEY",
+        "cross": 2
+      },
+      {
+        "word": "COTTON",
+        "cross": 1
+      },
+      {
+        "word": "PEA",
+        "cross": 0
+      },
+      {
+        "word": "SOY",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
   }
 ]
