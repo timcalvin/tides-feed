@@ -491,5 +491,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 18,
+    "date": "2026-10-30",
+    "title": "Heavy stuff",
+    "tide": "METAL",
+    "columns": [
+      {
+        "word": "CHROME",
+        "cross": 4
+      },
+      {
+        "word": "LEAD",
+        "cross": 1
+      },
+      {
+        "word": "TIN",
+        "cross": 0
+      },
+      {
+        "word": "BRASS",
+        "cross": 2
+      },
+      {
+        "word": "SILVER",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
