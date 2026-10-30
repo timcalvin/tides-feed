@@ -520,5 +520,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 19,
+    "date": "2026-10-31",
+    "title": "Not a trick",
+    "tide": "TREAT",
+    "columns": [
+      {
+        "word": "BRITTLE",
+        "cross": 3
+      },
+      {
+        "word": "GUMDROP",
+        "cross": 4
+      },
+      {
+        "word": "JELLY",
+        "cross": 1
+      },
+      {
+        "word": "CARAMEL",
+        "cross": 3
+      },
+      {
+        "word": "MINT",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
