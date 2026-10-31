@@ -549,5 +549,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 20,
+    "date": "2026-11-01",
+    "title": "By the yard",
+    "tide": "CLOTH",
+    "columns": [
+      {
+        "word": "LACE",
+        "cross": 2
+      },
+      {
+        "word": "FLEECE",
+        "cross": 1
+      },
+      {
+        "word": "WOOL",
+        "cross": 1
+      },
+      {
+        "word": "TWEED",
+        "cross": 0
+      },
+      {
+        "word": "MOHAIR",
+        "cross": 2
+      }
+    ],
+    "difficulty": 3
   }
 ]
