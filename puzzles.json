@@ -578,5 +578,34 @@
       }
     ],
     "difficulty": 3
+  },
+  {
+    "id": 21,
+    "date": "2026-11-02",
+    "title": "Oodles of noodles",
+    "tide": "PASTA",
+    "columns": [
+      {
+        "word": "PENNE",
+        "cross": 0
+      },
+      {
+        "word": "LASAGNA",
+        "cross": 3
+      },
+      {
+        "word": "FUSILLI",
+        "cross": 2
+      },
+      {
+        "word": "ZITI",
+        "cross": 2
+      },
+      {
+        "word": "MACARONI",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
