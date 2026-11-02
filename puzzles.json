@@ -607,5 +607,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 22,
+    "date": "2026-11-03",
+    "title": "Good boy!",
+    "tide": "POOCH",
+    "columns": [
+      {
+        "word": "PUG",
+        "cross": 0
+      },
+      {
+        "word": "BOXER",
+        "cross": 1
+      },
+      {
+        "word": "POODLE",
+        "cross": 2
+      },
+      {
+        "word": "CORGI",
+        "cross": 0
+      },
+      {
+        "word": "HUSKY",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
   }
 ]
