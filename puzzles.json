@@ -636,5 +636,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 23,
+    "date": "2026-11-04",
+    "title": "Wet your whistle",
+    "tide": "DRINK",
+    "columns": [
+      {
+        "word": "CIDER",
+        "cross": 2
+      },
+      {
+        "word": "WATER",
+        "cross": 4
+      },
+      {
+        "word": "JUICE",
+        "cross": 2
+      },
+      {
+        "word": "PUNCH",
+        "cross": 2
+      },
+      {
+        "word": "MILK",
+        "cross": 3
+      }
+    ],
+    "difficulty": 1
   }
 ]
