@@ -665,5 +665,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 24,
+    "date": "2026-11-05",
+    "title": "Deal me in",
+    "tide": "CARDS",
+    "columns": [
+      {
+        "word": "EUCHRE",
+        "cross": 2
+      },
+      {
+        "word": "WAR",
+        "cross": 1
+      },
+      {
+        "word": "POKER",
+        "cross": 4
+      },
+      {
+        "word": "BRIDGE",
+        "cross": 3
+      },
+      {
+        "word": "SNAP",
+        "cross": 0
+      }
+    ],
+    "difficulty": 3
   }
 ]
