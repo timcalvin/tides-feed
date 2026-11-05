@@ -694,5 +694,34 @@
       }
     ],
     "difficulty": 3
+  },
+  {
+    "id": 25,
+    "date": "2026-11-06",
+    "title": "Princess Donut approves",
+    "tide": "CRAWL",
+    "columns": [
+      {
+        "word": "CARL",
+        "cross": 0
+      },
+      {
+        "word": "BOXERS",
+        "cross": 4
+      },
+      {
+        "word": "KATIA",
+        "cross": 1
+      },
+      {
+        "word": "VIEWER",
+        "cross": 3
+      },
+      {
+        "word": "LOOT",
+        "cross": 0
+      }
+    ],
+    "difficulty": 3
   }
 ]
