@@ -723,5 +723,34 @@
       }
     ],
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "date": "2026-11-07",
+    "title": "Pocket change",
+    "tide": "MONEY",
+    "columns": [
+      {
+        "word": "DIME",
+        "cross": 2
+      },
+      {
+        "word": "DOLLAR",
+        "cross": 1
+      },
+      {
+        "word": "CENT",
+        "cross": 2
+      },
+      {
+        "word": "PESO",
+        "cross": 1
+      },
+      {
+        "word": "YEN",
+        "cross": 0
+      }
+    ],
+    "difficulty": 2
   }
 ]
