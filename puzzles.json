@@ -752,5 +752,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 27,
+    "date": "2026-11-08",
+    "title": "Needles and yarn",
+    "tide": "KNITS",
+    "columns": [
+      {
+        "word": "SOCK",
+        "cross": 3
+      },
+      {
+        "word": "BONNET",
+        "cross": 2
+      },
+      {
+        "word": "BEANIE",
+        "cross": 4
+      },
+      {
+        "word": "MITTEN",
+        "cross": 2
+      },
+      {
+        "word": "VEST",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
