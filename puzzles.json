@@ -781,5 +781,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 28,
+    "date": "2026-11-09",
+    "title": "Final frontier",
+    "tide": "SPACE",
+    "columns": [
+      {
+        "word": "STAR",
+        "cross": 0
+      },
+      {
+        "word": "PROBE",
+        "cross": 0
+      },
+      {
+        "word": "PLANET",
+        "cross": 2
+      },
+      {
+        "word": "ROCKET",
+        "cross": 2
+      },
+      {
+        "word": "METEOR",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
