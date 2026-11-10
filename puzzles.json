@@ -839,5 +839,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 30,
+    "date": "2026-11-11",
+    "title": "In the shed",
+    "tide": "TOOLS",
+    "columns": [
+      {
+        "word": "TONGS",
+        "cross": 0
+      },
+      {
+        "word": "HOE",
+        "cross": 1
+      },
+      {
+        "word": "SHOVEL",
+        "cross": 2
+      },
+      {
+        "word": "DRILL",
+        "cross": 3
+      },
+      {
+        "word": "SAW",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
   }
 ]
