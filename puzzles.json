@@ -897,5 +897,34 @@
       }
     ],
     "difficulty": 3
+  },
+  {
+    "id": 32,
+    "date": "2026-11-13",
+    "title": "Report card",
+    "tide": "CLASS",
+    "columns": [
+      {
+        "word": "RECESS",
+        "cross": 2
+      },
+      {
+        "word": "BIOLOGY",
+        "cross": 3
+      },
+      {
+        "word": "MATH",
+        "cross": 1
+      },
+      {
+        "word": "HISTORY",
+        "cross": 2
+      },
+      {
+        "word": "PHYSICS",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
