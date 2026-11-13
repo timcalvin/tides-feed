@@ -926,5 +926,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 33,
+    "date": "2026-11-14",
+    "title": "Windowsill garden",
+    "tide": "HERBS",
+    "columns": [
+      {
+        "word": "THYME",
+        "cross": 1
+      },
+      {
+        "word": "OREGANO",
+        "cross": 2
+      },
+      {
+        "word": "PARSLEY",
+        "cross": 2
+      },
+      {
+        "word": "BAY",
+        "cross": 0
+      },
+      {
+        "word": "BASIL",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
