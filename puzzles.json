@@ -955,5 +955,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 34,
+    "date": "2026-11-15",
+    "title": "Harbor traffic",
+    "tide": "BOATS",
+    "columns": [
+      {
+        "word": "BARGE",
+        "cross": 0
+      },
+      {
+        "word": "CANOE",
+        "cross": 3
+      },
+      {
+        "word": "KAYAK",
+        "cross": 1
+      },
+      {
+        "word": "RAFT",
+        "cross": 3
+      },
+      {
+        "word": "SLOOP",
+        "cross": 0
+      }
+    ],
+    "difficulty": 3
   }
 ]
