@@ -984,5 +984,34 @@
       }
     ],
     "difficulty": 3
+  },
+  {
+    "id": 35,
+    "date": "2026-11-16",
+    "title": "See, hear, smell",
+    "tide": "SENSE",
+    "columns": [
+      {
+        "word": "SKIN",
+        "cross": 0
+      },
+      {
+        "word": "EAR",
+        "cross": 0
+      },
+      {
+        "word": "TONGUE",
+        "cross": 2
+      },
+      {
+        "word": "NOSE",
+        "cross": 2
+      },
+      {
+        "word": "EYE",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
   }
 ]
