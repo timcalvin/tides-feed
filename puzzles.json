@@ -1013,5 +1013,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 36,
+    "date": "2026-11-17",
+    "title": "Arts and \u2026",
+    "tide": "CRAFT",
+    "columns": [
+      {
+        "word": "CLAY",
+        "cross": 0
+      },
+      {
+        "word": "BRUSH",
+        "cross": 1
+      },
+      {
+        "word": "EASEL",
+        "cross": 1
+      },
+      {
+        "word": "FELT",
+        "cross": 0
+      },
+      {
+        "word": "PASTEL",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
