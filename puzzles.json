@@ -1042,5 +1042,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 37,
+    "date": "2026-11-18",
+    "title": "Gone fishing",
+    "tide": "CATCH",
+    "columns": [
+      {
+        "word": "CARP",
+        "cross": 0
+      },
+      {
+        "word": "SHARK",
+        "cross": 2
+      },
+      {
+        "word": "TROUT",
+        "cross": 4
+      },
+      {
+        "word": "PERCH",
+        "cross": 3
+      },
+      {
+        "word": "ANCHOVY",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
