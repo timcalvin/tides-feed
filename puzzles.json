@@ -1071,5 +1071,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 38,
+    "date": "2026-11-19",
+    "title": "Take a load off",
+    "tide": "SEATS",
+    "columns": [
+      {
+        "word": "SOFA",
+        "cross": 0
+      },
+      {
+        "word": "BENCH",
+        "cross": 1
+      },
+      {
+        "word": "CHAIR",
+        "cross": 2
+      },
+      {
+        "word": "FUTON",
+        "cross": 2
+      },
+      {
+        "word": "STOOL",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
   }
 ]
