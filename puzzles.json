@@ -1100,5 +1100,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 39,
+    "date": "2026-11-20",
+    "title": "Color of envy",
+    "tide": "GREEN",
+    "columns": [
+      {
+        "word": "FROG",
+        "cross": 3
+      },
+      {
+        "word": "GRASS",
+        "cross": 1
+      },
+      {
+        "word": "CELERY",
+        "cross": 3
+      },
+      {
+        "word": "KALE",
+        "cross": 3
+      },
+      {
+        "word": "SPINACH",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
