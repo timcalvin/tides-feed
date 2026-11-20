@@ -1129,5 +1129,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 40,
+    "date": "2026-11-21",
+    "title": "Bug off!",
+    "tide": "PESTS",
+    "columns": [
+      {
+        "word": "APHID",
+        "cross": 1
+      },
+      {
+        "word": "FLEA",
+        "cross": 2
+      },
+      {
+        "word": "WASP",
+        "cross": 2
+      },
+      {
+        "word": "TICK",
+        "cross": 0
+      },
+      {
+        "word": "MOUSE",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
