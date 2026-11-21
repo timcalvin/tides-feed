@@ -1158,5 +1158,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 41,
+    "date": "2026-11-22",
+    "title": "Roof over your head",
+    "tide": "HOMES",
+    "columns": [
+      {
+        "word": "HUT",
+        "cross": 0
+      },
+      {
+        "word": "LODGE",
+        "cross": 1
+      },
+      {
+        "word": "MANOR",
+        "cross": 0
+      },
+      {
+        "word": "TENT",
+        "cross": 1
+      },
+      {
+        "word": "SHACK",
+        "cross": 0
+      }
+    ],
+    "difficulty": 1
   }
 ]
