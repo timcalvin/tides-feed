@@ -1187,5 +1187,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 42,
+    "date": "2026-11-23",
+    "title": "Roses are red\u2026",
+    "tide": "POEMS",
+    "columns": [
+      {
+        "word": "EPIC",
+        "cross": 1
+      },
+      {
+        "word": "ODE",
+        "cross": 0
+      },
+      {
+        "word": "LIMERICK",
+        "cross": 3
+      },
+      {
+        "word": "RHYME",
+        "cross": 3
+      },
+      {
+        "word": "VERSE",
+        "cross": 3
+      }
+    ],
+    "difficulty": 2
   }
 ]
