@@ -1216,5 +1216,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 43,
+    "date": "2026-11-24",
+    "title": "Pointy headwear",
+    "tide": "HORNS",
+    "columns": [
+      {
+        "word": "RHINO",
+        "cross": 1
+      },
+      {
+        "word": "GOAT",
+        "cross": 1
+      },
+      {
+        "word": "RAM",
+        "cross": 0
+      },
+      {
+        "word": "GNU",
+        "cross": 1
+      },
+      {
+        "word": "BISON",
+        "cross": 2
+      }
+    ],
+    "difficulty": 2
   }
 ]
