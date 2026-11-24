@@ -1245,5 +1245,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 44,
+    "date": "2026-11-25",
+    "title": "To-do list",
+    "tide": "CHORE",
+    "columns": [
+      {
+        "word": "VACUUM",
+        "cross": 2
+      },
+      {
+        "word": "WASH",
+        "cross": 3
+      },
+      {
+        "word": "MOP",
+        "cross": 1
+      },
+      {
+        "word": "SCRUB",
+        "cross": 2
+      },
+      {
+        "word": "SWEEP",
+        "cross": 2
+      }
+    ],
+    "difficulty": 1
   }
 ]
