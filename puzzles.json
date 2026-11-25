@@ -1274,5 +1274,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 45,
+    "date": "2026-11-26",
+    "title": "Gobble it up",
+    "tide": "FEAST",
+    "columns": [
+      {
+        "word": "STUFFING",
+        "cross": 3
+      },
+      {
+        "word": "PIE",
+        "cross": 2
+      },
+      {
+        "word": "GRAVY",
+        "cross": 2
+      },
+      {
+        "word": "YAMS",
+        "cross": 3
+      },
+      {
+        "word": "POTATO",
+        "cross": 2
+      }
+    ],
+    "difficulty": 1
   }
 ]
