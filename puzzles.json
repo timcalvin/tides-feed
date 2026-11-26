@@ -1303,5 +1303,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 46,
+    "date": "2026-11-27",
+    "title": "How are you feeling?",
+    "tide": "MOODS",
+    "columns": [
+      {
+        "word": "GLUM",
+        "cross": 3
+      },
+      {
+        "word": "BORED",
+        "cross": 1
+      },
+      {
+        "word": "JOLLY",
+        "cross": 1
+      },
+      {
+        "word": "SAD",
+        "cross": 2
+      },
+      {
+        "word": "UPSET",
+        "cross": 2
+      }
+    ],
+    "difficulty": 1
   }
 ]
