@@ -1332,5 +1332,34 @@
       }
     ],
     "difficulty": 1
+  },
+  {
+    "id": 47,
+    "date": "2026-11-28",
+    "title": "Rainy day fun",
+    "tide": "GAMES",
+    "columns": [
+      {
+        "word": "BINGO",
+        "cross": 3
+      },
+      {
+        "word": "TAG",
+        "cross": 1
+      },
+      {
+        "word": "DOMINOS",
+        "cross": 2
+      },
+      {
+        "word": "RELAY",
+        "cross": 1
+      },
+      {
+        "word": "JACKS",
+        "cross": 4
+      }
+    ],
+    "difficulty": 2
   }
 ]
