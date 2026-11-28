@@ -1361,5 +1361,34 @@
       }
     ],
     "difficulty": 2
+  },
+  {
+    "id": 48,
+    "date": "2026-11-29",
+    "title": "Lay of the land",
+    "tide": "EARTH",
+    "columns": [
+      {
+        "word": "MESA",
+        "cross": 1
+      },
+      {
+        "word": "CANYON",
+        "cross": 1
+      },
+      {
+        "word": "RIDGE",
+        "cross": 0
+      },
+      {
+        "word": "DELTA",
+        "cross": 3
+      },
+      {
+        "word": "HILL",
+        "cross": 0
+      }
+    ],
+    "difficulty": 2
   }
 ]
